@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Raleway-Bold";
+    src: url(./Fonts/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: "Raleway-Light";
+    src: url(./Fonts/Raleway-Light.ttf);
+}
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url(./Fonts/Raleway-Medium.ttf);
+}
+h1
+{
+    font-family: "Raleway-Bold";
+}
+h2
+{
+    font-family: "Raleway-Bold";
+    color: black;
+}
+p
+{
+    font-family: "Raleway-Light";
+}
+.nav-link, .dateInfo
+{
+    font-family: "Raleway-Medium";
+    color: black;
+}
